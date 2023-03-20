@@ -1,0 +1,1 @@
+import{d as n,r as a,c as t,a as r,b as d,o as c}from"./index.302f2a62.js";const m={class:"slider-demo-block"},i=n({__name:"Index",setup(u){const e=a(0);return(p,o)=>{const l=d("el-slider");return c(),t("div",m,[r(l,{modelValue:e.value,"onUpdate:modelValue":o[0]||(o[0]=s=>e.value=s),"show-input":""},null,8,["modelValue"])])}}});export{i as default};
